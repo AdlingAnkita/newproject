@@ -6,6 +6,7 @@ include('head.php');
 ?>
 
 <body>
+    aaaaaaa
     <!-- navbar start -->
     <?php
 include('header.php');

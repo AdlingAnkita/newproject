@@ -6,7 +6,7 @@ include('head.php');
 ?>
 
 <body>
-    aaaaaaa
+
     <!-- navbar start -->
     <?php
 include('header.php');
@@ -16,6 +16,7 @@ include('header.php');
     <div class="mt-4 mb-4 text-center">
         <h3 class="student_fac">Attendance</h3>
     </div>
+        <h3 class="student_fac">Attendance</h3>
 
     <!-- Address Div start -->
     <div class="container">
